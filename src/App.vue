@@ -55,10 +55,7 @@ import { faCog, faUpload } from '@fortawesome/free-solid-svg-icons'
 import { useRouter } from 'vue-router'
 import { ElScrollbar, ElConfigProvider } from 'element-plus'
 import zhCn from "element-plus/es/locale/lang/zh-cn"
-
-const repoLink = 'https://blog.lianglianglee.com'
-const repoName = '墓灵守护'
-const appName = '图床管理工具'
+const appName = '图床管理'
 
 document.title = appName
 
